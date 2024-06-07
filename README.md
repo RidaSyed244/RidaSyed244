@@ -1,4 +1,4 @@
-<h1 align="center">I am Rida Syed, Full-Stack Mobile and Web App Developer</h1>
+<h1 align="center">I am Rida Syed, Full-Stack Flutter Developer</h1>
 - 🔭 I’m currently working on **Backend Development(Python, Flask, MongoDB)**
 
 - 👯 I’m looking to collaborate on **Flutter based projects**
