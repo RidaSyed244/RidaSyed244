@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on **Flutter-based projects (Android, iOS, Web)**
 - 🤝 I’m open to discussions around **UI/UX, Firebase, State Management, and App Optimization**
 - 💬 Ask me about **Flutter, Dart, Firebase, Riverpod, REST APIs, Git, App Publishing**
-- ⚡ Fun fact: **I’m a Lazy Coding Genius – I build smart to work less 😄**
+- ⚡ Fun fact: **I’m a Lazy Coding Genius - I build smart to work less 😄**
 
 ---
 
