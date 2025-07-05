@@ -16,10 +16,10 @@
   <a href="https://www.instagram.com/ridaasyedddd/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - @ridaasyedddd" height="30" width="40" />
   </a>
-  <a href="https://yourwebsite.com" target="blank">
+  <a href="www.ridasyed.com" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/327408/web.svg" alt="My Website" height="30" width="40" />
   </a>
-  <a href="https://bsky.app/profile/yourhandle.bsky.social" target="blank">
+  <a href="[https://bsky.app/profile/yourhandle.bsky.social](https://bsky.app/profile/ridadev.flutter.community)" target="blank">
     <img align="center" src="https://seeklogo.com/images/B/bluesky-app-logo-B8DE7F5C35-seeklogo.com.png" alt="Bluesky Profile" height="30" width="40" />
   </a>
 </p>
