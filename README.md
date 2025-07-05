@@ -16,12 +16,12 @@
   <a href="https://www.instagram.com/ridaasyedddd/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - @ridaasyedddd" height="30" width="40" />
   </a>
-  <a href="www.ridasyed.com" target="blank">
+<!--   <a href="www.ridasyed.com" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/327408/web.svg" alt="My Website" height="30" width="40" />
   </a>
   <a href="[https://bsky.app/profile/yourhandle.bsky.social](https://bsky.app/profile/ridadev.flutter.community)" target="blank">
     <img align="center" src="https://seeklogo.com/images/B/bluesky-app-logo-B8DE7F5C35-seeklogo.com.png" alt="Bluesky Profile" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -43,13 +43,26 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
-  <a href="https://pub.dev/packages/riverpod" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/ram4ndev/riverpod_logo/main/riverpod.png" alt="Riverpod" width="40" height="40"/>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://developer.android.com/studio/images/studio-icon.svg" alt="Android Studio" width="40" height="40"/>
+  </a>
+  <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple Developer" width="40" height="40"/>
+  </a>
+  <a href="https://play.google.com/store/apps" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Play Store" width="90" height="40"/>
+  </a>
+  <a href="https://www.apple.com/app-store/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg" alt="App Store" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
